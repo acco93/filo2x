@@ -6,7 +6,7 @@ Communication among solvers happens indirectly through message passing handled b
 
 ![architecture](imgs/highlevel.png?raw=true)
 
-Every solver works on its copy of the reference solution and performs sequence of synchronization and generation stages.
+Every solver works on its copy of the reference solution and performs a sequence of synchronization and generation stages.
 
 ![architecture](imgs/solver.png?raw=true)
 
